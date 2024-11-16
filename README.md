@@ -1,2 +1,2 @@
 # Notes_Solidity_Assembly-YUL-
-These are my notes on Solidity Assembly (YUL) that I made along the way when I was learning from different resources online. I'll keep this updating with "YUL" bugs in it. Hope this helps the security community!
+These are my notes on Solidity Assembly (YUL) that I made while learning it from different online resources. I'll keep updating this repo with "YUL" bugs. I hope this helps the security community!
