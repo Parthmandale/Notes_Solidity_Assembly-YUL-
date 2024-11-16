@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity 0.8.20;
 
-contract basicOperation {
+contract YulBasicOperation {
     // a+b
     function Add(uint256 a, uint256 b) external pure returns (uint256 c) {
         assembly {

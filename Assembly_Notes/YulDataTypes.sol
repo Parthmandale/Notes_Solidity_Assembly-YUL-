@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity 0.8.20;
 
-contract YulTypes {
+contract YulDataTypes {
     function getUint256() external pure returns (uint256) {
         uint256 x;
 
